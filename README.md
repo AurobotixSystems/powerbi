@@ -1,5 +1,5 @@
 # powerbi
-Retail Sales Analytics Dashboard ⭐⭐⭐⭐⭐
+1. Retail Sales Analytics Dashboard
 
 Dataset
 Orders
